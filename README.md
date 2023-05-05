@@ -1,3 +1,5 @@
+There is a file [A-B test.ipynb](https://github.com/IharSkalaban/Statistic_A-B_testing/blob/main/A-B%20test.ipynb) -  that contains  detailed information about the progress of A/B test
+
 ###  Condition
 
 In the context of some hypothesis testing the target group was offered a new payment mechanics on the site, while the control group was left with the basic mechanics. It's necessary to analyze the results of the experiment and draw a conclusion as to whether it's worth launching the new payment mechanics on all users.
